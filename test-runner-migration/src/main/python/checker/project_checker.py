@@ -28,14 +28,14 @@ class ProjectChecker(object):
     def compare_packages_in_projects(self, old_project_path, new_project_path):
 
         new_project_path = os.path.join(new_project_path, "src", "main", "python")
-        dict_new_project_files = dict()
-        dict_new_project_files = self._dict_packages(new_project_path)
+        new_project_dick_files = dict()
+        new_project_dick_files = self._dict_packages(new_project_path)
 
         old_project_path = old_project_path
-        dict_old_project_files = dict()
-        dict_old_project_files = self._dict_packages(old_project_path)
+        old_project_dict_files = dict()
+        old_project_dict_files = self._dict_packages(old_project_path)
 
-        compare_dict = (dict_new_project_files == dict_old_project_files)
+        compare_dict = (new_project_dick_files == old_project_dict_files)
 
         return compare_dict
 
@@ -43,28 +43,24 @@ class ProjectChecker(object):
 
         project_all_dirs = []
         for (path, dirs, files) in os.walk(project_path):
-                project_all_dirs.extend(dirs)
+            project_all_dirs.extend(dirs)
 
         dict_project_files = dict()
 
         for i in range(0, len(project_all_dirs)):
-            new_path = os.path.join(project_path,     project_all_dirs[i])
+            new_path = os.path.join(project_path, project_all_dirs[i])
             dict_project_files[project_all_dirs[i]] = os.listdir(new_path)
-            
+
         return dict_project_files
 
-    def compare_files_contents(self, old_project_path, new_project_path):
+    def compare_files_cch   ontents(self, old_project_path, new_project_path):
 
-        dict_old_project_files = dict()
-        dict_old_project_files = self._dict_packages(old_project_path)
         old_project_path_files = []
-        old_project_path_files = self._project_path_files(dict_old_project_files, old_project_path)
+        old_project_path_files = self._project_path_files(old_project_path)
 
         new_project_path = os.path.join(new_project_path, "src", "main", "python")
-        dict_new_project_files = dict()
-        dict_new_project_files = self._dict_packages(new_project_path)
         new_project_path_files = []
-        new_project_path_files = self._project_path_files(dict_new_project_files, new_project_path)
+        new_project_path_files = self._project_path_files(new_project_path)
 
         compare_contents_file_result = []
         bad_files_path = []
@@ -82,12 +78,14 @@ class ProjectChecker(object):
         else:
             return True
 
+    def _project_path_files(self, project_path):
 
-    def _project_path_files(self, project_dict, project_path):
+        dict_project_files = dict()
+        dict_project_files = self._dict_packages(project_path)
 
         project_path_files = []
 
-        for packgage, files in project_dict.iteritems():
+        for packgage, files in dict_project_files.iteritems():
             name_packages = packgage
             files_in_packages = files
             for j in range(0, len(files_in_packages)):

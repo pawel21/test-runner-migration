@@ -45,5 +45,6 @@ class CheckFileTestSuite(unittest.TestCase):
         self.assertTrue(result, msg="Contents of files are different.")
 
 
+
 if __name__ == '__main__':
     unittest.main()
