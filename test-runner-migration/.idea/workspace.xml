@@ -25,7 +25,7 @@
       <file leaf-file-name="test_runner_migration_test.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/unittest/python/test_runner_migration_test.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="420">
+            <state relative-caret-position="440">
               <caret line="34" column="63" selection-start-line="34" selection-start-column="63" selection-end-line="34" selection-end-column="63" />
               <folding />
             </state>
@@ -35,8 +35,8 @@
       <file leaf-file-name="project_checker.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/python/checker/project_checker.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="560">
-              <caret line="83" column="65" selection-start-line="83" selection-start-column="65" selection-end-line="83" selection-end-column="65" />
+            <state relative-caret-position="270">
+              <caret line="78" column="23" selection-start-line="78" selection-start-column="23" selection-end-line="78" selection-end-column="23" />
               <folding>
                 <element signature="e#0#14#0" expanded="true" />
               </folding>
@@ -711,9 +711,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Unittest_CheckFileTestSuite_test_should_check_if_contents_files_are_the_same - 2016.07.07 at 13h 30m 07s.xml">
-      <configuration name="Unittest CheckFileTestSuite.test_should_check_if_contents_files_are_the_same" configurationId="tests" />
-    </history-entry>
     <history-entry file="Unittest_CheckFileTestSuite_test_should_check_if_contents_files_are_the_same - 2016.07.07 at 13h 30m 14s.xml">
       <configuration name="Unittest CheckFileTestSuite.test_should_check_if_contents_files_are_the_same" configurationId="tests" />
     </history-entry>
@@ -739,6 +736,9 @@
       <configuration name="Unittests in CheckFileTestSuite" configurationId="tests" />
     </history-entry>
     <history-entry file="Unittests_in_CheckFileTestSuite - 2016.07.07 at 15h 48m 55s.xml">
+      <configuration name="Unittests in CheckFileTestSuite" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_CheckFileTestSuite - 2016.07.07 at 15h 58m 04s.xml">
       <configuration name="Unittests in CheckFileTestSuite" configurationId="tests" />
     </history-entry>
   </component>
@@ -1169,7 +1169,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/unittest/python/test_runner_migration_test.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
+        <state relative-caret-position="440">
           <caret line="34" column="63" selection-start-line="34" selection-start-column="63" selection-end-line="34" selection-end-column="63" />
           <folding />
         </state>
@@ -1177,8 +1177,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/python/checker/project_checker.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="560">
-          <caret line="83" column="65" selection-start-line="83" selection-start-column="65" selection-end-line="83" selection-end-column="65" />
+        <state relative-caret-position="270">
+          <caret line="78" column="23" selection-start-line="78" selection-start-column="23" selection-end-line="78" selection-end-column="23" />
           <folding>
             <element signature="e#0#14#0" expanded="true" />
           </folding>
