@@ -1,0 +1,3 @@
+# We only need pybuilder to run the project build (all requirements are stated in build.py)
+PyBuilder==0.11.8
+

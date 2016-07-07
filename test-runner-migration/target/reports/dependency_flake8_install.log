@@ -1,0 +1,205 @@
+/home/gliwny/Desktop/dev/test-runner-migration/venv/local/lib/python2.7/site-packages/pip/_vendor/requests/packages/urllib3/util/ssl_.py:318: SNIMissingWarning: An HTTPS request has been made, but the SNI (Subject Name Indication) extension to TLS is not available on this platform. This may cause the server to present an incorrect TLS certificate, which can cause validation failures. You can upgrade to a newer version of Python to solve this. For more information, see https://urllib3.readthedocs.org/en/latest/security.html#snimissingwarning.
+  SNIMissingWarning
+/home/gliwny/Desktop/dev/test-runner-migration/venv/local/lib/python2.7/site-packages/pip/_vendor/requests/packages/urllib3/util/ssl_.py:122: InsecurePlatformWarning: A true SSLContext object is not available. This prevents urllib3 from configuring SSL appropriately and may cause certain SSL connections to fail. You can upgrade to a newer version of Python to solve this. For more information, see https://urllib3.readthedocs.org/en/latest/security.html#insecu  "GET /simple/flake8/ HTTP/1.1" 200 4387
+  Updating cache with response from "https://pypi.python.org/simple/flake8/"
+  Caching b/c date exists and max-age > 0
+  Analyzing links from page https://pypi.python.org/simple/flake8/
+    Found link https://pypi.python.org/packages/01/f6/2b87406d83aacb6d1fa9acf2c7e3752f59020ebb1b1c9f8adc811d1ea6f0/flake8-2.5.5-py2.py3-none-any.whl#md5=c6a7649af2119fe5f63ddb11fb89237a (from https://pypi.python.org/simple/flake8/), version: 2.5.5
+    Found link https://pypi.python.org/packages/04/88/627f30f478e5319cdfbba19eec5e2a672835504e145fe7bdfaaf8b944518/flake8-0.7.tar.gz#md5=04555d037d3e3a76ab9d77da515a89a4 (from https://pypi.python.org/simple/flake8/), version: 0.7
+    Found link https://pypi.python.org/packages/09/b9/080166931c0ab4ccbac7ac2a86d07b16ec7b3ffb31feb81f001d7c86ad08/flake8-2.5.0.tar.gz#md5=f239d055144a17cce76b3a402f112dc6 (from https://pypi.python.org/simple/flake8/), version: 2.5.0
+    Found link https://pypi.python.org/packages/0a/b9/758590c8e4dbefd4cfd34f1decef14baa89a4734b6c8e04f4740c2f0f726/flake8-3.0.0b1.tar.gz#md5=7c3e21c456953ac8ee6f1db3fa8462b4 (from https://pypi.python.org/simple/flake8/), version: 3.0.0b1
+    Found link https://pypi.python.org/packages/0d/69/3e19395889eb6e9fd35a6900fc25db3d4aa32585e6b606924ab8af69da8b/flake8-2.2.4.tar.gz#md5=5f9be8c6184beb94a9bc189b67b38806 (from https://pypi.python.org/simple/flake8/), version: 2.2.4
+    Found link https://pypi.python.org/packages/0e/21/923a19950c0be0bf68cd4beef340fae25ec07f50759bb8728e2bd6af2d93/flake8-0.1.tar.gz#md5=05a4b951a128b58a7e7b3fd7087bcf3d (from https://pypi.python.org/simple/flake8/), version: 0.1
+    Found link https://pypi.python.org/packages/11/e5/e9eb85c1c285c0fa39f3cfc4f5440ba82127bcdcdd16443236a73787f442/flake8-2.2.1-py2.py3-none-any.whl#md5=79c014a12d727e007453d7af3e5b13ad (from https://pypi.python.org/simple/flake8/), version: 2.2.1
+    Found link https://pypi.python.org/packages/14/0f/2883d32c2606d5ae2da0ec94f4168841af186c04bacb1140c7e32ad1d7ca/flake8-3.0.0b1-py2.py3-none-any.whl#md5=6d219554b50d1a60cd47057df0675892 (from https://pypi.python.org/simple/flake8/), version: 3.0.0b1
+    Found link https://pypi.python.org/packages/1b/06/34c3a33e955e75cc7135d9931b86f23a4f029a7d0b1a4ad81e654e1e7897/flake8-3.0.0b2-py2.py3-none-any.whl#md5=7d84621b08ae870ead6cead8ed838a66 (from https://pypi.python.org/simple/flake8/), version: 3.0.0b2
+    Found link https://pypi.python.org/packages/1f/0d/2fbde2a11ea67323905d5240960bdcbd88c70b28479143db2675cdaf5479/flake8-2.2.3.tar.gz#md5=dc26f97ab25f659761aee131a25e98b6 (from https://pypi.python.org/simple/flake8/), version: 2.2.3
+    Found link https://pypi.python.org/packages/21/ff/ae9f13caf5090733151987b4dc4c820fb9fa38263bab01107790a9531ab0/flake8-2.4.0.tar.gz#md5=d413935bb21026c18aca82654114502f (from https://pypi.python.org/simple/flake8/), version: 2.4.0
+    Found link https://pypi.python.org/packages/25/0c/bc7510f3752eaab4551329fcd320e09e7e0cf6b4929e53a0651e60bbe03e/flake8-2.2.3-py2.py3-none-any.whl#md5=42f42973f990303e00c8bf73ea0be47a (from https://pypi.python.org/simple/flake8/), version: 2.2.3
+    Found link https://pypi.python.org/packages/2d/cc/5c6ec08856d38e3a5dcb6147806c383f2bdfcc4328e2ff2422e4c9b5d093/flake8-2.2.0.tar.gz#md5=aea44c1389dd44e668a76a56909cbcec (from https://pypi.python.org/simple/flake8/), version: 2.2.0
+    Found link https://pypi.python.org/packages/3d/2f/3c266cdf3c16efb39a9b6f9f98ab1bb73990ae06f2cfe4eccc5c5e8ced2c/flake8-2.5.1-py2.py3-none-any.whl#md5=91b5aa039a42d5ab482ef3d682472365 (from https://pypi.python.org/simple/flake8/), version: 2.5.1
+    Found link https://pypi.python.org/packages/46/14/457b85bea74649f6d086c494c42d5e8dc8780ac98822e8030a6f261e9c9b/flake8-2.6.1-py2.py3-none-any.whl#md5=fe4737043ef8c47f6bb7f5048b20972b (from https://pypi.python.org/simple/flake8/), version: 2.6.1
+    Found link https://pypi.python.org/packages/46/b8/63dbf6241992e2490b23d1bbf8d1af628210474431360a0e41456f8e1f36/flake8-0.2.tar.gz#md5=0c48f71beaaa1464e8e7dd395b70905f (from https://pypi.python.org/simple/flake8/), version: 0.2
+    Found link https://pypi.python.org/packages/49/ab/852db3039dc2b72d2697281873020bb6a8bef1af2565e01e9492a9447fcd/flake8-2.0.tar.gz#md5=176c6b3613777122721db181560aa1e3 (from https://pypi.python.org/simple/flake8/), version: 2.0
+    Found link https://pypi.python.org/packages/49/b0/8628dfb4584f7dfa319b9f27bdbb2f1be265117841ee34fbd67a90b5437f/flake8-1.1.tar.gz#md5=28f1a26ec043ba153b52a41c991b13fe (from https://pypi.python.org/simple/flake8/), version: 1.1
+    Found link https://pypi.python.org/packages/4d/28/434cfa0a0dfdf8df4e3ef07ff765ef98c4a4f5fa2ae24b7afefa49bbd836/flake8-2.2.1.tar.gz#md5=213ddab1d44d654cbae61aacad73ae18 (from https://pypi.python.org/simple/flake8/), version: 2.2.1
+    Found link https://pypi.python.org/packages/53/0a/b2c28a77dfc508ed9f7334252311e1aaf8f0ceaaeb1a8f15fa4ba3e2d847/flake8-2.6.2.tar.gz#md5=cf4f63730fd35e736a8a99583b9158fd (from https://pypi.python.org/simple/flake8/), version: 2.6.2
+    Found link https://pypi.python.org/packages/5a/42/b50f31413ab6474e6dcb8d69ef892818f051e1018e882eb51530b53b05d7/flake8-2.5.0-py2.py3-none-any.whl#md5=dfdca9dff574ee0d1d3af2b6c84487ae (from https://pypi.python.org/simple/flake8/), version: 2.5.0
+    Found link https://pypi.python.org/packages/60/4a/7b0ac4920af5673380b7079ba2f7580a8645790c7718881082c0d918b8b4/flake8-2.5.4.tar.gz#md5=a4585b3569b95c3f66acb8294a7f06ef (from https://pypi.python.org/simple/flake8/), version: 2.5.4
+    Found link https://pypi.python.org/packages/60/a7/b805733b76cd194bf9d03bf207550daf7da2bea4119f53bc8297814da52e/flake8-1.6.2.tar.gz#md5=abfdbb25d37c28e9da05f1b5c3596d1a (from https://pypi.python.org/simple/flake8/), version: 1.6.2
+    Found link https://pypi.python.org/packages/61/27/ea62c7c4279acf6d3dc8884c26db6fb5bf27f706b7f2934c3c75b87c9c74/flake8-2.5.2.tar.gz#md5=497dd932bc1ab84d3e20f48bb7f242f6 (from https://pypi.python.org/simple/flake8/), version: 2.5.2
+    Found link https://pypi.python.org/packages/66/9e/4633bd1e37e4127242ddf8df18ab8dc9f2c3d79ce9c414f46cb39807e334/flake8-2.2.2.tar.gz#md5=5489f7dbec86de460839fa4290997040 (from https://pypi.python.org/simple/flake8/), version: 2.2.2
+    Found link https://pypi.python.org/packages/6a/c8/5e9b2a98656cc6ccdcede16a5b4d3ef131911b1ce90c8913d1d1664a8d94/flake8-2.2.2-py2.py3-none-any.whl#md5=547b775460a41655806d167bd7ea661c (from https://pypi.python.org/simple/flake8/), version: 2.2.2
+    Found link https://pypi.python.org/packages/70/49/8e2663e3da42ec06a800624cd683f625d139ff20a95f11e332260196426b/flake8-1.7.0.tar.gz#md5=a7830d1a6c23e889bc1fcaa4a87f53bd (from https://pypi.python.org/simple/flake8/), version: 1.7.0
+    Found link https://pypi.python.org/packages/70/a9/9b66f22d038de51e05f92d5e677fd89d8f9c980db0b8a130621baad052f5/flake8-2.6.2-py2.py3-none-any.whl#md5=a2ba001bacebde53e5dbc3e443320b9a (from https://pypi.python.org/simple/flake8/), version: 2.6.2
+    Found link https://pypi.python.org/packages/7a/5d/92e82c7a212d8139ed03cc68ed622cec17ed39d90fcfefe8a318561138c0/flake8-2.3.0.tar.gz#md5=488d6166f6b9ef9fe9d433b95e77dc07 (from https://pypi.python.org/simple/flake8/), version: 2.3.0
+    Found link https://pypi.python.org/packages/7c/16/f2067764f936231ace8b03ff064b262efc9b9bf95a28c5deb73590681e3e/flake8-0.8.tar.gz#md5=55f6ec22046ed6d49bfcadce517b3dbd (from https://pypi.python.org/simple/flake8/), version: 0.8
+    Found link https://pypi.python.org/packages/86/e7/4f8f95b8209f6b9569707fd9f0a3252f7c3abd2aeda80a5d0117b3d1b0fd/flake8-0.3.tar.gz#md5=1738ad17fdb85544f7a514754a6c76a1 (from https://pypi.python.org/simple/flake8/), version: 0.3
+    Found link https://pypi.python.org/packages/88/0a/9fc5201014fdb68a53cc28d67559ba5edc38f9799f4543a637bdbbe49ae8/flake8-1.6.tar.gz#md5=cac1731216fd14c3be34f30e85dde2c3 (from https://pypi.python.org/simple/flake8/), version: 1.6
+    Found link https://pypi.python.org/packages/8a/6d/eed8c5af68c5481283219355b5699ff2f16cbaef241550c275934c8ce7ff/flake8-2.5.3-py2.py3-none-any.whl#md5=dc8999017958a772ce1d2e4eebc638e6 (from https://pypi.python.org/simple/flake8/), version: 2.5.3
+    Found link https://pypi.python.org/packages/8c/a7/bce19129cb750a4f0720440801de328eafb18dd6bb94638d7bd350a8eead/flake8-2.1.0.tar.gz#md5=cf326cfb88a1db6c5b29a3a6d9efb257 (from https://pypi.python.org/simple/flake8/), version: 2.1.0
+    Found link https://pypi.python.org/packages/8f/1c/2f9c92cb917b2f95674b3c8038f1b78d5cbe54fbb53453dadec696cc026d/flake8-1.3.tar.gz#md5=5e4619c13bb4b0add8d67868876e3c44 (from https://pypi.python.org/simple/flake8/), version: 1.3
+    Found link https://pypi.python.org/packages/8f/b5/9a73c66c7dba273bac8758398f060c008a25f3e84531063b42503b5d0a95/flake8-2.4.1.tar.gz#md5=ed45d3db81a3b7c88bd63c6e37ca1d65 (from https://pypi.python.org/simple/flake8/), version: 2.4.1
+    Found link https://pypi.python.org/packages/9e/91/7094b1fd241a018e91c7bdb2a8eb7c34f4ed0744a8839a3f0fb9988e7947/flake8-1.2.tar.gz#md5=f17045f150ff3c4a2feae1dc59088370 (from https://pypi.python.org/simple/flake8/), version: 1.2
+    Found link https://pypi.python.org/packages/a4/24/fdd9e825c5bf50bcb8292661c3923b6c79a1702e0522160f6ef7bc885ff8/flake8-2.5.2-py2.py3-none-any.whl#md5=3658c1d2aca9df75792f44a63b94455d (from https://pypi.python.org/simple/flake8/), version: 2.5.2
+    Found link https://pypi.python.org/packages/a5/bf/5cfcb9ed884dc059068e3fc7dddcae823f049aa7c0222afd0b3e1e0bccd9/flake8-1.6.1.tar.gz#md5=daa3de7f1c413bb11f98601e18a0d872 (from https://pypi.python.org/simple/flake8/), version: 1.6.1
+    Found link https://pypi.python.org/packages/a6/c4/44c41b868d499c4162f86e5312a690ff06ec45b7e1465fc305c6d3dd866d/flake8-1.0.tar.gz#md5=f8a92349b39910d8a9af10ef2961b284 (from https://pypi.python.org/simple/flake8/), version: 1.0
+    Found link https://pypi.python.org/packages/aa/68/9882a69953b1f87a2661611660a4766e0c15c211c48981b371ed2a995494/flake8-2.6.0-py2.py3-none-any.whl#md5=c895edfbd388b74f262a5dd5be0e50e9 (from https://pypi.python.org/simple/flake8/), version: 2.6.0
+    Found link https://pypi.python.org/packages/ac/1a/a9fa6e1672f5703d98ea4425c5941ec28db23f3dd169a505b8bdc2386987/flake8-2.4.0-py2.py3-none-any.whl#md5=9cfb34a91072701886063f8180d19003 (from https://pypi.python.org/simple/flake8/), version: 2.4.0
+    Found link https://pypi.python.org/packages/b1/9e/674f7c2f87ed52e8b50d265ec52c3a3e36f4f0ee06dd626508a246b88086/flake8-1.3.1.tar.gz#md5=0dbe1b9e028a66f0c42cbab94a30715d (from https://pypi.python.org/simple/flake8/), version: 1.3.1
+    Found link https://pypi.python.org/packages/b4/2a/1fec6e802ced26214a27913f5b82d904b29e1a15acba06f48443b7a6faae/flake8-2.4.1-py2.py3-none-any.whl#md5=8767d6cdc4b1654a418f99555c505f84 (from https://pypi.python.org/simple/flake8/), version: 2.4.1
+    Found link https://pypi.python.org/packages/b8/00/1d79544e14114fa112d45bd7d615a99b198a525e703590d3923c7977a47a/flake8-0.4.tar.gz#md5=cd407fb21a787c0a57ee02f8cef33b17 (from https://pypi.python.org/simple/flake8/), version: 0.4
+    Found link https://pypi.python.org/packages/c1/8d/2dcee405f6e5340dd40f144908867ff422d22e732208daadbd3ea1719737/flake8-0.5.tar.gz#md5=f8b81255c95e2a09133eb39cd95fa9e7 (from https://pypi.python.org/simple/flake8/), version: 0.5
+    Found link https://pypi.python.org/packages/ca/e6/5e6ce67c8e7a06a55d2520422306ce6a8861e844f081b9eec29db76a0d25/flake8-2.3.0-py2.py3-none-any.whl#md5=0b38e2ea40521b0647c25b8a3c181cdb (from https://pypi.python.org/simple/flake8/), version: 2.3.0
+    Found link https://pypi.python.org/packages/cb/31/c4fe7743e3bcec64aee3bda010b07189142d8204176068e26061c037f1e0/flake8-2.2.5.tar.gz#md5=6dea927949b94c9d9495ab24bcdf9cf0 (from https://pypi.python.org/simple/flake8/), version: 2.2.5
+    Found link https://pypi.python.org/packages/d3/c8/b3110a9084b85b3ec4158da3bd07ba461e07347c33f13dde92cc0be340af/flake8-3.0.0b2.tar.gz#md5=0f0a511d14e92ecf9fc854cdb0a41310 (from https://pypi.python.org/simple/flake8/), version: 3.0.0b2
+    Found link https://pypi.python.org/packages/d8/eb/e1ec4596e59231bfb16bf19288a913316dc0e42aa2fd3e1b00b82ba48a8a/flake8-2.6.1.tar.gz#md5=f120afe0c2fea21fe406c9af8589056f (from https://pypi.python.org/simple/flake8/), version: 2.6.1
+    Found link https://pypi.python.org/packages/da/d1/be537bd5d520befcc3bfd25b65dce8c4b03542bbb6191de4d379d949af69/flake8-2.2.0-py2.py3-none-any.whl#md5=286df52d6eafdb337b4633a8a03e2697 (from https://pypi.python.org/simple/flake8/), version: 2.2.0
+    Found link https://pypi.python.org/packages/dd/2a/d24c0ec0863e420fbb0383e6b642aaa4c17421a49419a323e29ea0eb894e/flake8-1.4.tar.gz#md5=64acc2c905178f6d6817d88574407fb5 (from https://pypi.python.org/simple/flake8/), version: 1.4
+    Found link https://pypi.python.org/packages/de/94/b311b0e78fc260afb745c73418cf7169f4ccfd48fde51cbb89fadf4fd4a7/flake8-2.5.1.tar.gz#md5=2704676fd2d39c7441a09ad69f3296b3 (from https://pypi.python.org/simple/flake8/), version: 2.5.1
+    Found link https://pypi.python.org/packages/df/96/631d189e5ad8d2eedfcb0e586e94310e5cdf2d1fbd69d9778615373e0424/flake8-2.5.3.tar.gz#md5=a1483aeb5b1c416a18532d48c5a46705 (from https://pypi.python.org/simple/flake8/), version: 2.5.3
+    Found link https://pypi.python.org/packages/e1/16/fba9e558dd7215b9a54abfc65a7032c5239c983cbb4f9eac9abf0e8f399b/flake8-2.5.4-py2.py3-none-any.whl#md5=84774f041b4f5e50c54f5593ca3170f4 (from https://pypi.python.org/simple/flake8/), version: 2.5.4
+    Found link https://pypi.python.org/packages/e6/ee/174942e953285d6a4da4495ad79385f39cef0141f4f4e8d099477fd51b83/flake8-0.9.tar.gz#md5=e607b3411bad71c04bc3c3355eec69e8 (from https://pypi.python.org/simple/flake8/), version: 0.9
+    Found link https://pypi.python.org/packages/f3/93/ff69c70fbb08a20c7dda613c7f3e70723bd1c36d458c1615621e10e4252f/flake8-0.6.tar.gz#md5=382bfa9a39b972a3000c7fb3fbebaf23 (from https://pypi.python.org/simple/flake8/), version: 0.6
+    Found link https://pypi.python.org/packages/f4/c7/1c5bb63914354b2e4eb1d84634b96af8fad64278d84a30aa9bffbcf2e67d/flake8-2.6.0.tar.gz#md5=f00378a3e9b7ab398b05f70befa112cd (from https://pypi.python.org/simple/flake8/), version: 2.6.0
+    Found link https://pypi.python.org/packages/f6/d6/31eb69e7a9a3c33708807d83e78af1b3de6d41f2c333369c57732d0dda8c/flake8-2.5.5.tar.gz#md5=eb9ea3adf046f593bd21c93dfb527458 (from https://pypi.python.org/simple/flake8/), version: 2.5.5
+    Found link https://pypi.python.org/packages/fd/a1/63716a663c3a3a7d79ac43bd9b26939ff7955e4d607a04b3866b3f551ffd/flake8-1.5.tar.gz#md5=525be5c7fcaf85f6819c77752cb2ee72 (from https://pypi.python.org/simple/flake8/), version: 1.5
+  Using version 2.6.2 (newest of versions: 0.1, 0.2, 0.3, 0.4, 0.5, 0.6, 0.7, 0.8, 0.9, 1.0, 1.1, 1.2, 1.3, 1.3.1, 1.4, 1.5, 1.6, 1.6.1, 1.6.2, 1.7.0, 2.0, 2.1.0, 2.2.0, 2.2.1, 2.2.2, 2.2.3, 2.2.4, 2.2.5, 2.3.0, 2.4.0, 2.4.1, 2.5.0, 2.5.1, 2.5.2, 2.5.3, 2.5.4, 2.5.5, 2.6.0, 2.6.1, 2.6.2)
+  Looking up "https://pypi.python.org/packages/70/a9/9b66f22d038de51e05f92d5e677fd89d8f9c980db0b8a130621baad052f5/flake8-2.6.2-py2.py3-none-any.whl" in the cache
+  Current age based on date: 991
+  Freshness lifetime from max-age: 31557600
+  The response is "fresh", returning cached response
+  31557600 > 991
+  Using cached flake8-2.6.2-py2.py3-none-any.whl
+  Downloading from URL https://pypi.python.org/packages/70/a9/9b66f22d038de51e05f92d5e677fd89d8f9c980db0b8a130621baad052f5/flake8-2.6.2-py2.py3-none-any.whl#md5=a2ba001bacebde53e5dbc3e443320b9a (from https://pypi.python.org/simple/flake8/)
+Collecting pyflakes!=1.2.0,!=1.2.1,!=1.2.2,<1.3,>=0.8.1 (from flake8)
+  2 location(s) to search for versions of pyflakes:
+  * http://artifactory-ci.tomtomgroup.com/artifactory/api/pypi/pypi-local/simple/pyflakes/
+  * https://pypi.python.org/simple/pyflakes/
+  Getting page http://artifactory-ci.tomtomgroup.com/artifactory/api/pypi/pypi-local/simple/pyflakes/
+  "GET /artifactory/api/pypi/pypi-local/simple/pyflakes/ HTTP/1.1" 404 None
+  Could not fetch URL http://artifactory-ci.tomtomgroup.com/artifactory/api/pypi/pypi-local/simple/pyflakes/: 404 Client Error: Not Found for url: http://artifactory-ci.tomtomgroup.com/artifactory/api/pypi/pypi-local/simple/pyflakes/ - skipping
+  Getting page https://pypi.python.org/simple/pyflakes/
+  Looking up "https://pypi.python.org/simple/pyflakes/" in the cache
+  Current age based on date: 991
+  Freshness lifetime from max-age: 600
+  Freshness lifetime from request max-age: 600
+  The cached response is "stale" with no etag, purging
+  "GET /simple/pyflakes/ HTTP/1.1" 200 2299
+  Updating cache with response from "https://pypi.python.org/simple/pyflakes/"
+  Caching b/c date exists and max-age > 0
+  Analyzing links from page https://pypi.python.org/simple/pyflakes/
+    Found link https://pypi.python.org/packages/05/00/2867f51e4c2526fd8524176520aecfcd1562033cc5f7110673012294fcc7/pyflakes-1.1.0-py2.py3-none-any.whl#md5=bfcc488e3bbf29ba30492f1d2886796a (from https://pypi.python.org/simple/pyflakes/), version: 1.1.0
+    Found link https://pypi.python.org/packages/1d/a5/b4c9a21540f14cf1bcb442a83cb8c6f2db511a4b2b0f36e3526302c4202a/pyflakes-0.7.1.tar.gz#md5=fca336e21e4244e61e396cb4888c55e7 (from https://pypi.python.org/simple/pyflakes/), version: 0.7.1
+    Found link https://pypi.python.org/packages/30/99/a7d442d31bbe87de8c2e49544d5ad4cd4ca57465242c909b204ba597a943/pyflakes-0.6.1.tar.gz#md5=00debd2280b962e915dfee552a675915 (from https://pypi.python.org/simple/pyflakes/), version: 0.6.1
+    Found link https://pypi.python.org/packages/34/20/c1c6eb3977d4f4d8ac136c5969bf642273e44c6ac93a22b6a26e8bed32bd/pyflakes-1.2.0.tar.gz#md5=b12cacc073189433fabe5d59f1b14b82 (from https://pypi.python.org/simple/pyflakes/), version: 1.2.0
+    Found link https://pypi.python.org/packages/38/31/0be5568c0d8063778c79a0e6bbd917173416654cab5b87d44b1733b4fd93/pyflakes-0.6.0.tar.gz#md5=6cb41388f325b34422db2912d520dd02 (from https://pypi.python.org/simple/pyflakes/), version: 0.6.0
+    Found link https://pypi.python.org/packages/3b/c0/babde99e111ebbbe8864c452db9132069a51c63f60e1cdfa49f00a229fca/pyflakes-1.1.0.tar.gz#md5=e0bf854cd5abd4527e149692925b82eb (from https://pypi.python.org/simple/pyflakes/), version: 1.1.0
+    Found link https://pypi.python.org/packages/3f/07/16b483f9428a2075272e791360950bf6baa99d05816854e731e14265452e/pyflakes-0.9.1.tar.gz#md5=296cd14a30b433badc8215474240cd6f (from https://pypi.python.org/simple/pyflakes/), version: 0.9.1
+    Found link https://pypi.python.org/packages/45/24/6bc038f3422bab08c24173c1990a56e9eb0c4582a9b202858a33f8aefeb8/pyflakes-1.0.0.tar.gz#md5=914621d4c9546248419b435dd358eb6a (from https://pypi.python.org/simple/pyflakes/), version: 1.0.0
+    Found link https://pypi.python.org/packages/46/41/6b4d70b05db0768db3c42beb63acf5571ae47b38b124e3b0c9fe1654e547/pyflakes-0.7.tar.gz#md5=4cbe17be937684654eb29d9efab67b80 (from https://pypi.python.org/simple/pyflakes/), version: 0.7
+    Found link https://pypi.python.org/packages/48/f7/f5864b0c2b640039cabf17bea109d6f230e3ab1d073ecb32f7f367558394/pyflakes-1.2.2-py2.py3-none-any.whl#md5=717b67cbca08d7bf97e7ac91e27ce01e (from https://pypi.python.org/simple/pyflakes/), version: 1.2.2
+    Found link https://pypi.python.org/packages/49/94/592dfa051cb674d022c8ae6306d114dc752b3b5d3e08b896acaa4b3277f8/pyflakes-0.8.1-py2.py3-none-any.whl#md5=a9810b19e048e77ba1ce5364a77aa32e (from https://pypi.python.org/simple/pyflakes/), version: 0.8.1
+    Found link https://pypi.python.org/packages/54/80/6a641f832eb6c6a8f7e151e7087aff7a7c04dd8b4aa6134817942cdda1b6/pyflakes-1.2.3.tar.gz#md5=995747589e97c75055cf5b4e1e031e0b (from https://pypi.python.org/simple/pyflakes/), version: 1.2.3
+    Found link https://pypi.python.org/packages/56/8e/3b133d0cd2bbdc87d64d99b1d7d45405ec1e4d69e6949ce0cd4322ba8f66/pyflakes-0.5.0.tar.gz#md5=568dab27c42e5822787aa8a603898672 (from https://pypi.python.org/simple/pyflakes/), version: 0.5.0
+    Found link https://pypi.python.org/packages/59/70/6fbc74a5554fd6f0230f6cc298c9e74847cc727bdbf07c9f9d01ad8c0dc3/pyflakes-0.9.2-py2.py3-none-any.whl#md5=16629ae263c812658036594778b5ad29 (from https://pypi.python.org/simple/pyflakes/), version: 0.9.2
+    Found link https://pypi.python.org/packages/6d/65/3272c6bb4dba7974175981d8b8e64b6a1d7022a7f9412417684563650e3a/pyflakes-1.0.0-py2.py3-none-any.whl#md5=b06f8034c94c72bcdc4da29a4753b8b7 (from https://pypi.python.org/simple/pyflakes/), version: 1.0.0
+    Found link https://pypi.python.org/packages/74/55/98f59358be6d7240ba546b8a74813cc21841a9145a0c1a3a7998f50acbe7/pyflakes-1.2.3-py2.py3-none-any.whl#md5=2c93c60fe773ac1356aaac6aea6b19a6 (from https://pypi.python.org/simple/pyflakes/), version: 1.2.3
+    Found link https://pypi.python.org/packages/75/22/a90ec0252f4f87f3ffb6336504de71fe16a49d69c4538dae2f12b9360a38/pyflakes-0.8.1.tar.gz#md5=905fe91ad14b912807e8fdc2ac2e2c23 (from https://pypi.python.org/simple/pyflakes/), version: 0.8.1
+    Found link https://pypi.python.org/packages/79/57/9e63bb732b0e055e824dd617b489c5917df6eeb06545ad0bd36df3bb69c0/pyflakes-0.9.2.tar.gz#md5=f7032897353e68f6dc6210dfab39f414 (from https://pypi.python.org/simple/pyflakes/), version: 0.9.2
+    Found link https://pypi.python.org/packages/87/f8/8432ce436c89fcc1405ef85df6ca6583fb5fd379a22b4127cf2119f51cdb/pyflakes-0.3.0.tar.gz#md5=ec7eee3444214bda18e57b82175e1da7 (from https://pypi.python.org/simple/pyflakes/), version: 0.3.0
+    Found link https://pypi.python.org/packages/97/ca/572dbb044cd44713b29749a6f0decfd4d1e156f86d8d9013f6738610e05d/pyflakes-0.9.0.tar.gz#md5=83472433d0187146708fc52767575eef (from https://pypi.python.org/simple/pyflakes/), version: 0.9.0
+    Found link https://pypi.python.org/packages/aa/72/c2cc75d9eb4da5edb6ad23955df0b52048cdada68eb569d4177955f7c6e0/pyflakes-0.9.0-py2.py3-none-any.whl#md5=a88087d4383c403f7a61dbfac211601d (from https://pypi.python.org/simple/pyflakes/), version: 0.9.0
+    Found link https://pypi.python.org/packages/af/6e/6f8cb1d6dfb08b08c2f4c11fdb478b8d63f51f03d1d1bd61d4e154922cc2/pyflakes-1.2.2.tar.gz#md5=fd33b46e16db7d926e71d5a056680137 (from https://pypi.python.org/simple/pyflakes/), version: 1.2.2
+    Found link https://pypi.python.org/packages/b2/6c/d59c4f06f479df92422bfdb876357f215bfdfe652d6c7c8d5f198d27361d/pyflakes-0.7.2.tar.gz#md5=2b27790c2fd6020ed045674c03092a8c (from https://pypi.python.org/simple/pyflakes/), version: 0.7.2
+    Found link https://pypi.python.org/packages/bf/1d/00af5299878b6b68009b63692e4f7e7a39d920588d5ff1ab0d2b3db79e43/pyflakes-1.2.1-py2.py3-none-any.whl#md5=fc2a253aaa9c61458b48f430bdc00c69 (from https://pypi.python.org/simple/pyflakes/), version: 1.2.1
+    Found link https://pypi.python.org/packages/c8/9c/8db4fc4986466ab7df13835a0653e358305622c96f90807964f73161f7f6/pyflakes-1.2.1.tar.gz#md5=6e44c443f9d6573b221005e91f0c2e99 (from https://pypi.python.org/simple/pyflakes/), version: 1.2.1
+    Found link https://pypi.python.org/packages/e2/ac/5497dd04fa6ab3dcc9e154b5687459577efef5fcd83097bb65aa35954940/pyflakes-1.2.0-py2.py3-none-any.whl#md5=9d7d10b21c1c2b43bcec94978191eabc (from https://pypi.python.org/simple/pyflakes/), version: 1.2.0
+    Found link https://pypi.python.org/packages/f1/2e/bc67b40cea44d2bce8b0a2fdfa24a85cb960689f56454a9be480c3c3ef2c/pyflakes-0.8.tar.gz#md5=64bbf98be68f2d781bfe2aaa97aa77d0 (from https://pypi.python.org/simple/pyflakes/), version: 0.8
+    Found link https://pypi.python.org/packages/f2/56/7ddb2c7ba7c6c6583784043d9408a8f165b9fd0a319400ceae0043dea892/pyflakes-0.9.1-py2.py3-none-any.whl#md5=a6347baddf0e538309282fbe3389832d (from https://pypi.python.org/simple/pyflakes/), version: 0.9.1
+    Found link https://pypi.python.org/packages/f3/65/b983911959a559b5a549bab0e283f863557f02e917a240704896c5d8cb1d/pyflakes-0.4.0.tar.gz#md5=630a72510aae8758f48cf60e4fa17176 (from https://pypi.python.org/simple/pyflakes/), version: 0.4.0
+    Found link https://pypi.python.org/packages/fb/e0/7f25ff400803340626499d5fa8555f49f014768c7221664578b85ba3b229/pyflakes-0.7.3.tar.gz#md5=ec94ac11cb110e6e72cca23c104b66b1 (from https://pypi.python.org/simple/pyflakes/), version: 0.7.3
+  Using version 1.2.3 (newest of versions: 0.8.1, 0.9.0, 0.9.1, 0.9.2, 1.0.0, 1.1.0, 1.2.3)
+  Looking up "https://pypi.python.org/packages/74/55/98f59358be6d7240ba546b8a74813cc21841a9145a0c1a3a7998f50acbe7/pyflakes-1.2.3-py2.py3-none-any.whl" in the cache
+  Current age based on date: 991
+  Freshness lifetime from max-age: 31557600
+  The response is "fresh", returning cached response
+  31557600 > 991
+  Using cached pyflakes-1.2.3-py2.py3-none-any.whl
+  Downloading from URL https://pypi.python.org/packages/74/55/98f59358be6d7240ba546b8a74813cc21841a9145a0c1a3a7998f50acbe7/pyflakes-1.2.3-py2.py3-none-any.whl#md5=2c93c60fe773ac1356aaac6aea6b19a6 (from https://pypi.python.org/simple/pyflakes/)
+Collecting pycodestyle<2.1,>=2.0 (from flake8)
+  2 location(s) to search for versions of pycodestyle:
+  * http://artifactory-ci.tomtomgroup.com/artifactory/api/pypi/pypi-local/simple/pycodestyle/
+  * https://pypi.python.org/simple/pycodestyle/
+  Getting page http://artifactory-ci.tomtomgroup.com/artifactory/api/pypi/pypi-local/simple/pycodestyle/
+  "GET /artifactory/api/pypi/pypi-local/simple/pycodestyle/ HTTP/1.1" 404 None
+  Could not fetch URL http://artifactory-ci.tomtomgroup.com/artifactory/api/pypi/pypi-local/simple/pycodestyle/: 404 Client Error: Not Found for url: http://artifactory-ci.tomtomgroup.com/artifactory/api/pypi/pypi-local/simple/pycodestyle/ - skipping
+  Getting page https://pypi.python.org/simple/pycodestyle/
+  Looking up "https://pypi.python.org/simple/pycodestyle/" in the cache
+  Current age based on date: 990
+  Freshness lifetime from max-age: 600
+  Freshness lifetime from request max-age: 600
+  The cached response is "stale" with no etag, purging
+  "GET /simple/pycodestyle/ HTTP/1.1" 200 626
+  Updating cache with response from "https://pypi.python.org/simple/pycodestyle/"
+  Caching b/c date exists and max-age > 0
+  Analyzing links from page https://pypi.python.org/simple/pycodestyle/
+    Found link https://pypi.python.org/packages/73/31/136a79364c1681a3c276796d1f5090833bd03461b78a1b037638d1a2c484/pycodestyle-2.0.0-py2.py3-none-any.whl#md5=25ad6c33896472973bc849d058b36c30 (from https://pypi.python.org/simple/pycodestyle/), version: 2.0.0
+    Found link https://pypi.python.org/packages/ba/d1/9973e3eb4a45342b6b377f7d3f40f02c25b49fe783c42199ea653f41e87a/pycodestyle-1.8.0.dev0-py2.py3-none-any.whl#md5=cc3a77e0b3d7e6c031ff8b8ec2702036 (from https://pypi.python.org/simple/pycodestyle/), version: 1.8.0.dev0
+    Found link https://pypi.python.org/packages/db/b1/9f798e745a4602ab40bf6a9174e1409dcdde6928cf800d3aab96a65b1bbf/pycodestyle-2.0.0.tar.gz#md5=733291d308def897c0c48c7840b7f6bc (from https://pypi.python.org/simple/pycodestyle/), version: 2.0.0
+    Found link https://pypi.python.org/packages/dd/66/fda85afe66edcd5e41a8cca7cc6a1da0cabef0fca8fdff197d82adf17a7a/pycodestyle-1.8.0.dev0.tar.gz#md5=89036205d4ea5c8970081ba8372aa838 (from https://pypi.python.org/simple/pycodestyle/), version: 1.8.0.dev0
+    Found link https://pypi.python.org/packages/e7/9c/2b551f54271c08fd920edbefcea3defe2edf662a86757708df9ca866a033/pycodestyle-2.0.0a1.tar.gz#md5=c9b5ddd26d0d78a729f2cc3cafe450e7 (from https://pypi.python.org/simple/pycodestyle/), version: 2.0.0a1
+    Found link https://pypi.python.org/packages/f3/af/5b89bfeb26b1ddc7ca6b502e2e6bf92ea3eeb04099929288753b084100a5/pycodestyle-2.0.0a1-py2.py3-none-any.whl#md5=5b7389420f5577cdf1ed0dd05b8076db (from https://pypi.python.org/simple/pycodestyle/), version: 2.0.0a1
+  Using version 2.0.0 (newest of versions: 2.0.0)
+  Looking up "https://pypi.python.org/packages/73/31/136a79364c1681a3c276796d1f5090833bd03461b78a1b037638d1a2c484/pycodestyle-2.0.0-py2.py3-none-any.whl" in the cache
+  Current age based on date: 990
+  Freshness lifetime from max-age: 31557600
+  The response is "fresh", returning cached response
+  31557600 > 990
+  Using cached pycodestyle-2.0.0-py2.py3-none-any.whl
+  Downloading from URL https://pypi.python.org/packages/73/31/136a79364c1681a3c276796d1f5090833bd03461b78a1b037638d1a2c484/pycodestyle-2.0.0-py2.py3-none-any.whl#md5=25ad6c33896472973bc849d058b36c30 (from https://pypi.python.org/simple/pycodestyle/)
+Collecting mccabe<0.6,>=0.2.1 (from flake8)
+  2 location(s) to search for versions of mccabe:
+  * http://artifactory-ci.tomtomgroup.com/artifactory/api/pypi/pypi-local/simple/mccabe/
+  * https://pypi.python.org/simple/mccabe/
+  Getting page http://artifactory-ci.tomtomgroup.com/artifactory/api/pypi/pypi-local/simple/mccabe/
+  "GET /artifactory/api/pypi/pypi-local/simple/mccabe/ HTTP/1.1" 404 None
+  Could not fetch URL http://artifactory-ci.tomtomgroup.com/artifactory/api/pypi/pypi-local/simple/mccabe/: 404 Client Error: Not Found for url: http://artifactory-ci.tomtomgroup.com/artifactory/api/pypi/pypi-local/simple/mccabe/ - skipping
+  Getting page https://pypi.python.org/simple/mccabe/
+  Looking up "https://pypi.python.org/simple/mccabe/" in the cache
+  Current age based on date: 990
+  Freshness lifetime from max-age: 600
+  Freshness lifetime from request max-age: 600
+  The cached response is "stale" with no etag, purging
+  "GET /simple/mccabe/ HTTP/1.1" 200 888
+  Updating cache with response from "https://pypi.python.org/simple/mccabe/"
+  Caching b/c date exists and max-age > 0
+  Analyzing links from page https://pypi.python.org/simple/mccabe/
+    Found link https://pypi.python.org/packages/22/b9/0f8c3a3f734bc66f3f278a658285f4a5347a52b0c38ce8c11863930ad77f/mccabe-0.3-py2.py3-none-any.whl#md5=fb444e9597f475743eb63920e83aa7b5 (from https://pypi.python.org/simple/mccabe/), version: 0.3
+    Found link https://pypi.python.org/packages/57/fa/4a0cda4cf9877d2bd12ab031ae4ecfdc5c1bbb6e68f3fe80da4f29947c2a/mccabe-0.5.0.tar.gz#md5=8304dc8dc2c7e0b15912e2638ee21c0a (from https://pypi.python.org/simple/mccabe/), version: 0.5.0
+    Found link https://pypi.python.org/packages/59/a2/1382f6a41af561a12914bb3e79edef744872520db42f99347bcdc3af6bbc/mccabe-0.5.0-py2.py3-none-any.whl#md5=89c36f1d550ee2bdffea6034f86bef32 (from https://pypi.python.org/simple/mccabe/), version: 0.5.0
+    Found link https://pypi.python.org/packages/84/75/d7966b7280635e96a243d27ca39e5954e9af632a36a4e8eee44660e53540/mccabe-0.3.1-py2.py3-none-any.whl#md5=bea6b1fdd1cffb8afb4d7cac046f104f (from https://pypi.python.org/simple/mccabe/), version: 0.3.1
+    Found link https://pypi.python.org/packages/ba/99/352f7ff08af01c11a8e38260796b9096e662334b454f934f06210eabbb46/mccabe-0.4.0-py2.py3-none-any.whl#md5=eed948bb360ba1f8a7d64a457cf157ee (from https://pypi.python.org/simple/mccabe/), version: 0.4.0
+    Found link https://pypi.python.org/packages/bb/c9/a7d3a53fdaee1fdff753e8333ccf8affe944ac1d4dc4894dbcaa3db5954b/mccabe-0.3.1.tar.gz#md5=9a1570c470ff5db678cc0c03d5c0c237 (from https://pypi.python.org/simple/mccabe/), version: 0.3.1
+    Found link https://pypi.python.org/packages/c9/2e/75231479e11a906b64ac43bad9d0bb534d00080b18bdca8db9da46e1faf7/mccabe-0.3.tar.gz#md5=81640948ff226f8c12b3277059489157 (from https://pypi.python.org/simple/mccabe/), version: 0.3
+    Found link https://pypi.python.org/packages/e5/7e/560bce4f5c06e8a30e9f5475d8e285eb3494a3591a04849c3cc822215493/mccabe-0.2.tar.gz#md5=c1012c7c24081471f45aab864d4e3805 (from https://pypi.python.org/simple/mccabe/), version: 0.2
+    Found link https://pypi.python.org/packages/ec/b1/79c08edbb2a652f2f697c2b71dc08ede14e615bf6aa325237a32e0ed36f0/mccabe-0.2.1.tar.gz#md5=5a3f3fa6a4bad126c88aaaa7dab682f5 (from https://pypi.python.org/simple/mccabe/), version: 0.2.1
+    Found link https://pypi.python.org/packages/f6/e7/54461a958bb8b16f8db5f849d5d08b7d74153e064ac385fb68ff09f0bd27/mccabe-0.4.0.tar.gz#md5=8c425db05f310adcd4bb174b991f26f5 (from https://pypi.python.org/simple/mccabe/), version: 0.4.0
+  Using version 0.5.0 (newest of versions: 0.2.1, 0.3, 0.3.1, 0.4.0, 0.5.0)
+  Looking up "https://pypi.python.org/packages/59/a2/1382f6a41af561a12914bb3e79edef744872520db42f99347bcdc3af6bbc/mccabe-0.5.0-py2.py3-none-any.whl" in the cache
+  Current age based on date: 990
+  Freshness lifetime from max-age: 31557600
+  The response is "fresh", returning cached response
+  31557600 > 990
+  Using cached mccabe-0.5.0-py2.py3-none-any.whl
+  Downloading from URL https://pypi.python.org/packages/59/a2/1382f6a41af561a12914bb3e79edef744872520db42f99347bcdc3af6bbc/mccabe-0.5.0-py2.py3-none-any.whl#md5=89c36f1d550ee2bdffea6034f86bef32 (from https://pypi.python.org/simple/mccabe/)
+Installing collected packages: pyflakes, pycodestyle, mccabe, flake8
+
+  changing mode of /home/gliwny/Desktop/dev/test-runner-migration/venv/bin/pyflakes to 775
+
+  changing mode of /home/gliwny/Desktop/dev/test-runner-migration/venv/bin/pycodestyle to 775
+
+
+  changing mode of /home/gliwny/Desktop/dev/test-runner-migration/venv/bin/flake8 to 775
+Successfully installed flake8-2.6.2 mccabe-0.5.0 pycodestyle-2.0.0 pyflakes-1.2.3
+Cleaning up...
